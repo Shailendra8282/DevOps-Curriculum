@@ -7,7 +7,7 @@ This module is about mindset before tools. DevOps is **not** a job title, a set 
 
 DevOps bridges the historical gap between **Development** (who build features fast) and **Operations** (who keep systems stable and secure). Without DevOps, dev teams throw code "over the wall" to ops, causing blame games, slow releases, and fragile production.
 
-**Core idea (2026 reality)**:  
+**Core idea**:  
 High-performing teams treat software delivery as a single, end-to-end value stream — from idea → code → production → customer feedback → improvement.  
 
 DevOps enables organizations to:
@@ -19,8 +19,6 @@ DevOps enables organizations to:
 **Key books to understand the "why"**:
 - *The Phoenix Project* (novel) → shows the pain of traditional IT and how DevOps fixes it.
 - *The DevOps Handbook* (2nd ed.) → practical guide to principles and patterns.
-
-DevOps is urgent in 2026: AI speeds code generation, cloud is default, competition is fierce — slow or unstable delivery kills businesses.
 
 ### Key Frameworks
 
