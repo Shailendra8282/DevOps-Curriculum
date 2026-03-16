@@ -31,4 +31,3 @@ Focus on free or low-cost, high-signal resources. Prioritize official docs + pro
 - DevOps Discord/Slack groups
 - X/Twitter: Follow @Thetips4you, @nana_techworld, @KodeKloud
 
-Update this list as you discover better resources. Add notes per module later (e.g., "Best Docker tutorial → Nana's playlist").
