@@ -33,7 +33,7 @@ A self-paced, hands-on DevOps learning path designed for 2026 realities:
 |------|---------------------------------|--------------------------------------------------|------------|-------------------------------------------|
 | 1–2  | Foundations & Culture           | DevOps mindset, Linux mastery, DORA metrics      | Ready      | [topics/01-foundations.md](./topics/01-foundations.md) |
 | 3    | Version Control & Collaboration | Advanced Git, GitHub workflows, branching        | Planned    | [topics/02-version-control.md](./topics/02-version-control.md) |
-| 4–5  | CI & Build Automation           | GitHub Actions, testing, artifacts               | Planned    | [topics/03-ci-cd.md](./topics/03-ci-cd.md) |
+| 4–5  | CI & Build Automation           | Jenkins, GitHub Actions, testing, artifacts               | Planned    | [topics/03-ci-cd.md](./topics/03-ci-cd.md) |
 | 6    | Containerization                | Docker deep-dive, multi-stage builds, Compose    | Planned    | [topics/04-containers.md](./topics/04-containers.md) |
 | 7–8  | Orchestration & IaC             | Kubernetes basics, Terraform, Ansible intro      | Planned    | [topics/05-orchestration-iac.md](./topics/05-orchestration-iac.md) |
 | 9    | Continuous Delivery & GitOps    | Blue-green/canary, ArgoCD                        | Planned    | [topics/06-gitops-cd.md](./topics/06-gitops-cd.md) |
