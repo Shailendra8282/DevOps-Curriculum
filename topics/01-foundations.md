@@ -76,6 +76,3 @@ Methodologies, Agile, WaterFall
 **Recommended reading for this module**:
 - Chapters on "Getting started with DevOps" from *Learning DevOps (Second Edition)*
 - "The Dawn of DevOps" / "Nobody Understands DevOps" from *Cloud Native DevOps with Kubernetes*
-- Quick self-check: Does your current team have silos? How are feedback loops? Rate your setup on CAMS 1–5.
-
-Questions or improvements? Open an issue!
