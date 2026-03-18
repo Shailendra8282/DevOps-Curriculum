@@ -28,7 +28,7 @@ The book emphasizes that DevOps is **primarily an organizational, human issue**,
 
 It debunks myths like "NoOps" (outsourcing all ops to cloud providers eliminates the need for DevOps) — in reality, DevOps shifts traditional ops work earlier in the pipeline: automated tests, security scans, monitoring, logging, and policy checks happen **before** code reaches production.
 
-Business value (from the book):  
+Business value:  
 > DevOps is “improving the quality of your software by speeding up release cycles with cloud automation and practices, with the added benefit of software that actually stays up in production” [...] companies that adopt DevOps principles release better software faster, react better and faster to failures and problems, are more agile in the marketplace, and dramatically improve the quality of their products.
 
 In 2026, with AI accelerating code and cloud-native defaults, DevOps remains essential: slow, unstable delivery kills competitiveness.
@@ -56,7 +56,6 @@ Another clean lens from *Cloud Native DevOps with Kubernetes* sources: alignment
 - **Process and Practice** — Agile/iterative workflows, CI/CD, feedback loops, monitoring  
 - **Tools and Technology** — Shared, integrated tooling (IaC, monitoring, automation) that everyone can use
 
-Both books agree: DevOps succeeds when these align. Misalignment (e.g., great tools but toxic culture) leads to failure.
 
 #### 3. The Three Axes from *Learning DevOps*  
 Explicitly called out as the movement's foundation:
@@ -74,7 +73,5 @@ DevOps isn't "install Docker and call it done". It's cultural transformation sta
 - Chapters on "Getting started with DevOps" from *Learning DevOps (Second Edition)*
 - "The Dawn of DevOps" / "Nobody Understands DevOps" from *Cloud Native DevOps with Kubernetes*
 - Quick self-check: Does your current team have silos? How are feedback loops? Rate your setup on CAMS 1–5.
-
-Next: Linux mastery, networking basics, scripting intro, and SDLC vs DevOps lifecycle.
 
 Questions or improvements? Open an issue!
