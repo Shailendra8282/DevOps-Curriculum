@@ -69,6 +69,10 @@ These axes match CALMS/Trinity but emphasize the full lifecycle phases.
 ### Why This Matters for Your Journey
 DevOps isn't "install Docker and call it done". It's cultural transformation starting at the top, propagating down. Success shows in faster releases, fewer outages, happier teams, and better business outcomes.
 
+
+
+Methodologies, Agile, WaterFall
+
 **Recommended reading for this module**:
 - Chapters on "Getting started with DevOps" from *Learning DevOps (Second Edition)*
 - "The Dawn of DevOps" / "Nobody Understands DevOps" from *Cloud Native DevOps with Kubernetes*
