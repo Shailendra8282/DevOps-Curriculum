@@ -132,4 +132,3 @@
 
 Questions? Stuck? Open an issue in the repo — happy debugging!
 
-**Next challenge preview**: Automate this deployment with a simple Bash script.
