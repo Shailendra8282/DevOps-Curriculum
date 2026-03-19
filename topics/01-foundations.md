@@ -66,19 +66,6 @@ Explicitly called out as the movement's foundation:
 
 These axes match CALMS/Trinity but emphasize the full lifecycle phases.
 
-### Why This Matters for Your Journey
-DevOps isn't "install Docker and call it done". It's cultural transformation starting at the top, propagating down. Success shows in faster releases, fewer outages, happier teams, and better business outcomes.
-
-
-
-Methodologies, Agile, WaterFall
-
-**Recommended reading for this module**:
-- Chapters on "Getting started with DevOps" from *Learning DevOps (Second Edition)*
-- "The Dawn of DevOps" / "Nobody Understands DevOps" from *Cloud Native DevOps with Kubernetes*
-
-
-
 
 ## # 02 – SDLC Methodologies  
 **How Software Is Built**
@@ -230,6 +217,6 @@ Different architectural styles influence how DevOps practices are implemented. M
 
 ---
 
-### Key Takeaway
-
-Modern DevOps practices are closely aligned with microservices, event-driven systems, and cloud-native architectures. These approaches enable faster delivery, improved scalability, and continuous deployment, making them essential for building resilient and adaptable software systems.
+**Recommended reading for this module**:
+- Chapters on "Getting started with DevOps" from *Learning DevOps (Second Edition)*
+- "The Dawn of DevOps" / "Nobody Understands DevOps" from *Cloud Native DevOps with Kubernetes*
