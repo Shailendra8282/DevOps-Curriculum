@@ -81,14 +81,23 @@ chmod +x script.sh     # Make executable
 chown user:group file
 chown -R www-data:www-data /var/www/html   # Recursive
 
-### **** 4.Process and Service Management
+### 4. Process and Service Management
 
-ps aux                  # All running processes
-ps aux | grep nginx
-top / htop
-kill PID
-kill -9 PID             # Force kill
-pkill -f "process_name"
+Process management is one of the most frequently used skills in DevOps. You will regularly check running services, restart them, view resource usage, and troubleshoot issues.
+
+#### Key Concepts
+- **Processes**: Running instances of programs
+- **Services**: Long-running background processes managed by systemd (the modern init system on Ubuntu)
+- **Killing processes**: Graceful vs force kill
+
+#### Important Commands
+
+**Viewing Processes**
+```bash
+ps aux                  # Show all running processes with details
+ps aux | grep nginx     # Filter for a specific process
+top                     # Interactive real-time process viewer
+htop                    # Better colored version (install with: sudo apt install htop)
 
 # Systemd (modern service manager)
 systemctl status nginx
