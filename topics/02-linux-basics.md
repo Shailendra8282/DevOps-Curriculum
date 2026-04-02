@@ -81,6 +81,8 @@ chmod +x script.sh     # Make executable
 chown user:group file
 chown -R www-data:www-data /var/www/html   # Recursive
 
+## 4.Process and Service Management
+
 ps aux                  # All running processes
 ps aux | grep nginx
 top / htop
