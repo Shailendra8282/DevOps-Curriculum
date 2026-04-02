@@ -80,6 +80,7 @@ chmod 755 script.sh
 chmod +x script.sh     # Make executable
 chown user:group file
 chown -R www-data:www-data /var/www/html   # Recursive
+```
 
 ### 4. Process and Service Management
 
