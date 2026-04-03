@@ -107,40 +107,62 @@ systemctl restart nginx
 systemctl enable nginx   # Auto-start on boot
 systemctl disable nginx
 journalctl -u nginx -f   # Follow service logs
+```
 
+## **Installation & Package Management
+```bash
 sudo apt update
 sudo apt upgrade -y
 sudo apt install nginx git curl vim -y
 sudo apt remove package_name
 sudo apt autoremove        # Clean unused dependencies
+```
 
+## **Networking and DNS  
+```bash
 ip addr show            # Show IP addresses and interfaces
 ping 8.8.8.8
 curl -I https://example.com
 ss -tlnp                # Listening ports and processes (replacement for netstat)
 dig example.com         # DNS lookup
 traceroute example.com
+```
+## **Firewall  
 
+```bash
 # Firewall (ufw - Uncomplicated Firewall)
 sudo ufw status
 sudo ufw allow OpenSSH
 sudo ufw allow 80/tcp
 sudo ufw allow 443/tcp
 sudo ufw enable
+```
 
+## ** User & Permission Management
+
+```bash
 whoami
 id
 sudo -i                 # Become root temporarily
 sudo su -               # Full root shell
 groups
 usermod -aG sudo username   # Add user to sudo group
+```
+## ** Logs & Troubleshooting  
 
+```bash
 journalctl -u service_name
 journalctl -u nginx --since "1 hour ago"
 tail -f /var/log/nginx/error.log
 grep "error" /var/log/syslog
 
+```
+
+## ** Memory & Storage Management  
+
+```bash
 df -h                   # Filesystem usage
 du -sh /path            # Directory usage
 lsblk                   # Block devices (disks)
 fdisk -l                # Partition table (use with caution)
+```
