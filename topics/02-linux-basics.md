@@ -82,7 +82,7 @@ chown user:group file
 chown -R www-data:www-data /var/www/html   # Recursive
 ```
 
-### 4. Process and Service Management
+### 4. Process and Service Management  
 
 Process management is one of the most frequently used skills in DevOps. You will regularly check running services, restart them, view resource usage, and troubleshoot issues.
 
