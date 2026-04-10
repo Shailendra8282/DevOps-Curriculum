@@ -2,7 +2,7 @@
 <div align="center">
 
 # DevOps Learning Path 2026  
-**Mohammed Adil Rehan**  
+****  
 Practical DevOps curriculum – from foundations to production pipelines
 
 [![GitHub stars](https://img.shields.io/github/stars/YOUR-USERNAME/YOUR-REPO?style=social)](https://github.com/YOUR-USERNAME/YOUR-REPO)
